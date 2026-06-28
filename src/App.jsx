@@ -7,7 +7,7 @@ import Work from './components/work/work'
 import Skills from './components/skills/skills'
 import Education from './components/education/education'
 import Footer from './components/footer/footer'
-import BlurBlob from './components/blurblob'
+import BlurBlob from './components/BlurBlob'
 
 
 
